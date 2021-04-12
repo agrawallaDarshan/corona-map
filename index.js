@@ -29,6 +29,8 @@ function updateMyMap() {
 
             });
 
+            //All these changes are directly reflected to github.
+
 
         })
 }
